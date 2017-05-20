@@ -1,0 +1,17 @@
+{
+  "name": "japan-colors-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Color theme based on The Traditional Colors of Japan",
+  "keywords": [
+    "syntax",
+    "theme",
+    "Japan",
+    "Nippon"
+  ],
+  "repository": "https://github.com/kkpoon/japan-colors-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
